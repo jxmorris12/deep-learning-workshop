@@ -1,6 +1,4 @@
-title: Minimal theme
+title: Practical Deep Learning
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description: Homepage for the Practical Deep Learning workshop at Cornell Tech in Spring 2024.
 theme: jekyll-theme-minimal

@@ -2,122 +2,46 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+**Instructor**: Jack Morris
 
-There should be whitespace between paragraphs.
+**Meetings**: Wednesday 5:55pm-7:10pm (Bloomberg)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+**Office hours**: By appointment only (for now)
 
-# Header 1
+[Canvas Link](https://canvas.cornell.edu/courses/63269)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Course description
 
-## Header 2
+Students will learn deep neural network fundamentals and practical skills for training and evaluating these networks. We will practice using a variety of tools in real-world scenarios to prepare students for practical deep learning problems seen in both research and industry.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+## Schedule
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Lecture
 
-#### Header 4
+| Week |  Date        | Title          | Resources |
+|:-|:-------------|:------------------|:------|
+| 1 |  1/22           | Introduction: debugging neural networks |   |
+| 2 | 1/29           | PyTorch Internals |   |
+| 3 | 2/5           | Transfer learning |   |
+| 4 | 2/12           | Language modeling |   |
+| 5 | 2/19           | Attention & Transformers |   |
+| 6 | 3/4           | Information retrieval, vector databases, and inversion |   |
+| 7 | 3/11           | LLM Quantization & LoRA |   |
+| 8 | 3/18           | Prompting |   |
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### Project working sessions
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
+| Date        |           | |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+| 3/25           |  |   |
+| 4/8           |  |   |
+| 4/15           |  |   |
+| 4/22           |  |   |
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### Project
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
