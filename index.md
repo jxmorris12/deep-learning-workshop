@@ -5,7 +5,7 @@ layout: default
 
 **Instructor**: Jack Morris
 
-**Meetings**: Wednesday 5:55pm-7:10pm (Bloomberg 091)
+**Meetings**: MONDAY 5:55pm-7:10pm (Bloomberg 091)
 
 **Office hours**: By appointment only (for now)
 
