@@ -20,17 +20,38 @@ Students will learn deep neural network fundamentals and practical skills for tr
 
 ### Lecture
 
-| Week |  Date        | Title          | Resources |
-|:-|:-------------|:------------------|:------|
-| 1 |  1/22           | Introduction: debugging neural networks |   |
-| 2 | 1/29           | Transfer learning with ResNet |   |
-| 3 | 2/5           | Language modeling |   |
-| 4 | 2/12           | Attention & Transformers |   |
-| 5 | 2/19           | Multimodal models |   |
-| 6 | 3/4           | Information retrieval, vector databases, and inversion |   |
-| 7 | 3/11           | LLM Quantization & LoRA |   |
-| 8 | 3/18           | Prompting |   |
+<table>
+    <thead>
+    <tr>
+      <th style="text-align: left">Week</th>
+      <th style="text-align: left">Date</th>
+      <th style="text-align: left">Title</th>
+      <th style="text-align: left">Slides</th>
+      <th style="text-align: left">Puzzle</th>
+    </tr>
+  </thead>
+<tbody>
+{% assign sorted_weeks = site.posts | sort: 'index' %}
 
+{% for week in sorted_weeks %}
+    <tr>
+        <td> {{ week.index }} </td>
+        <td> {{ week.day }} </td>
+        <td> {{ week.title }} </td>
+        {% if week.slides %}
+            <td> <a href="{{ week.slides }}"> 📊 </a> </td>
+        {% else %}
+            <td> </td>
+        {% endif %}
+        {% if week.puzzle %}
+            <td> <a href="{{ week.puzzle }}"> 🧩 </a> </td>
+        {% else %}
+            <td> </td>
+        {% endif %}
+    </tr>
+    {% endfor %}
+</tbody>
+</table>
 
 
 ## Project
