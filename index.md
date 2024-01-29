@@ -39,7 +39,7 @@ Students will learn deep neural network fundamentals and practical skills for tr
         <td> {{ week.day }} </td>
         <td> {{ week.title }} </td>
         {% if week.slides %}
-            <td> <a href="{{ week.slides }}"> 📊 </a> </td>
+            <td> <a href="{{ site.baseurl }}{{ week.slides }}"> 📊 </a> </td>
         {% else %}
             <td> </td>
         {% endif %}
