@@ -67,3 +67,6 @@ All students will complete a small project at the end of the semester to test th
 | 4/15           |  |   |
 | 4/22           |  |   |
 
+### Resources
+
+[Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/) - Andrej Karpathy
