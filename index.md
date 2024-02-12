@@ -58,6 +58,8 @@ Students will learn deep neural network fundamentals and practical skills for tr
 
 All students will complete a small project at the end of the semester to test their new deep learning skills. The goal is to build something that uses contemporary technology to do something interesting and exciting and to showcase your skills as an engineer.
 
+<a href="/project">For more information on the project, see the Project page.</a>
+
 ### Project working sessions
 
 | Date        |           | |
@@ -69,6 +71,6 @@ All students will complete a small project at the end of the semester to test th
 
 ### Resources
 
-[Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/) - Andrej Karpathy
-[Frequently Asked Questions](https://pytorch.org/docs/stable/notes/faq.html) – PyTorch Team (actually a very good resource for beginners!!)
-[GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
+- [Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/) - Andrej Karpathy
+- [Frequently Asked Questions](https://pytorch.org/docs/stable/notes/faq.html) – PyTorch Team (actually a very good resource for beginners!!)
+- [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
