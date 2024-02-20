@@ -74,3 +74,4 @@ All students will complete a small project at the end of the semester to test th
 - [Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/) - Andrej Karpathy
 - [Frequently Asked Questions](https://pytorch.org/docs/stable/notes/faq.html) – PyTorch Team (actually a very good resource for beginners!!)
 - [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
+- [Intro to Text Embeddings (Stack Overflow)](https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/) - a decent introduction to text embeddings
